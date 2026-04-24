@@ -111,10 +111,4 @@ Commit your changes (git commit -m 'Add amazing feature').
 
 Push to the branch (git push origin feature/AmazingFeature).
 
-Open a Pull Request.
-
-
-📞 Contact
-Project Link: https://github.com/Pi-Pika/Expense-Tracker
-
-Developer: @Pi-PikaDeveloper: [@Pi-Pika](https://sites.google.com/diu.edu.bd/piash5606/home?authuser=3)
+Open a Pull Request
